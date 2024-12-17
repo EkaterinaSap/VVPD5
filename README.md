@@ -20,4 +20,4 @@
 В написании файла README.md мне помог сайт [Руководство по Markdown для упрощения веб-разработки](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
 
  
-в 10 функции использовалась формула Ряд Маклорена $ (1 - x)^m $
+в 10 функции использовалась формула Ряд Маклорена $(1 - x)^m$
