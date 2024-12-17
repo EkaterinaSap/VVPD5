@@ -12,6 +12,12 @@
 - [x] ln(1 - x)
 - [ ] (1 - x)^m
 
+[Перейти на Studfile](https://studfile.net/preview/652581/)
+
 Пример кода:
 ![пример](https://github.com/user-attachments/assets/01a13b2d-3fd1-4b96-a629-f962a8695745)
 
+В написании файла README.md мне помог сайт [Руководство по Markdown для упрощения веб-разработки](https://ydmitry.ru/blog/rukovodstvo-po-markdown-dlya-uproshcheniya-veb-razrabotki/)
+
+ 
+в 10 функции использовалась формула Ряд Маклорена $ (1 - x)^m $
