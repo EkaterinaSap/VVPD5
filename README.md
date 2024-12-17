@@ -10,8 +10,8 @@ by EkaterinaSap
 В данной программе реализованы формулы:
 - [x] ln(1 + x)
 - [x] ln(1 - x)
-- [] (1 - x)^m
+- [ ] (1 - x)^m
 
 Пример кода:
-![пример](C:\Users\User\Downloads "пример")
+![пример](https://github.com/user-attachments/assets/01a13b2d-3fd1-4b96-a629-f962a8695745)
 
